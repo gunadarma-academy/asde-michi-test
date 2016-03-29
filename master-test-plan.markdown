@@ -1,26 +1,36 @@
 # Master Test Plan for Arlin by Michi
-Adapted from [Master Test Plan (v061111) by Northwestern University Information Technology](http://www.it.northwestern.edu/bin/docs/project-framework/Master_Test_Plan_v061111.docx).
+
+Adapted from [Master Test Plan (v061111) by Northwestern University Information Technology (in DOCX format)](http://www.it.northwestern.edu/bin/docs/project-framework/Master_Test_Plan_v061111.docx).
+
+--------------------------------------------------------------------------------
 
 ## Instruction
+
 This document is used to define the details of the master test plan. Once the test plan is outlined, the document must be reviewed and approved by the lead technical representative on the project as well as the lead business representative on the project.  If anything related to the test plan changes during the execution and testing phase of the project, this document should be updated and re-approved by both parties.
 
+--------------------------------------------------------------------------------
+
 ## Test Scope
+
 This test plan will test all the requirements for Arlin version 1.0, which will be tested by the Michi team for evaluate and verify that the product (Arlin) meet the functional, performance and design. This Master Test Plan covers unit, functional, integration, user interface, and user acceptance test.
+
 --------------------------------------------------------------------------------
 
 ## Test Features
+
 This is a description of the features that will be tested within the scope of the test plan. The list represents what will be tested as well as the individuals/groups involved with the testing activities.
 
-No. | Feature																						| Responsible person
---- | --------------------------------------------------------------------------------------------- | ------------------
-1   | Login, Logout    																				| Muhammad Patria
-2   | Posting Answer, Posting Question Feature, List all questions, and Retrieve Question’s Answers | Ruth Theodora
-3   | User Interface Test 																			| Ekky Bayu Pramana
-4   | Unit Test, Functional Test    																| Muhammad Haidar Hanif
+No. | Feature	| Responsible person
+--- | ------- | ------------------
+1   | Login, Logout | Muhammad Patria
+2   | Posting question, Posting answer, List all questions, and List question’s answers | Ruth Theodora
+3   | User Interface (UI) Test | Ekky Bayu Pramana
+4   | Unit/Functional/E2E Test | Muhammad Haidar Hanif
 
 --------------------------------------------------------------------------------
 
 ## Test Inputs/Outputs
+
 This is a description of the inputs that will be used to assist with the testing effort and a list of the outputs that will be delivered from the testing effort.  
 
 Example:
@@ -36,26 +46,33 @@ Product Specs | List of results
 --------------------------------------------------------------------------------
 
 ## Test Strategy
+
 ### Unit Test
+
 A unit test is a quality measurement and evaluation procedure applied in most enterprise software development activities. Generally, a unit test evaluates how software code complies with the overall objective of the software/application/program and how its fitness affects other smaller units. Unit tests may be performed manually - by one or more developer - or through an automated software solution.
 
 When tested, each unit is isolated from the primary program or interface. Unit tests are typically performed after development and prior to publishing, thus facilitating integration and early problem detection. The size or scope of a unit varies by programming language, software application, and testing objectives.
 
 ### Functional Test
+
 Functional testing is primarily is used to verify that a piece of software is providing the same output as required by the end-user or business. Typically, functional testing involves evaluating and comparing each software function with the business requirements. The software is tested by providing it with some related input so that the output can be evaluated to see how it conforms, relates or varies compared to its base requirements. Moreover, functional testing also checks the software for usability, such as by ensuring that the navigational functions are working as required.
 
 ### Integration Test
+
 Integration testing is a software testing methodology used to test individual software components or units of code to verify the interaction between various software components and detect interface defects. Components are tested as a single group or organized in an iterative manner.
 
 ### User Interface Test
-. . .
+
+...
 
 ### User Acceptance Test
+
 User acceptance testing (UAT) is a test conducted to determine if the requirements of a specification or to verify if specific requirements are working for the user. User acceptance tests are useful because they capture user requirements in a directly verifiable way, identify problems which unit or integration tests might have missed, and provide an overview of how “done” the system is. UAT typically performed by Regular User, this tests all changed functionality of a system from the end-user perspective
 
 --------------------------------------------------------------------------------
 
 ## Test Environment (tools, system, databases)
+
 This is a list of the testing tools, systems, and databases.
 
 ### List of Technologies
@@ -64,7 +81,7 @@ Tools:
 - Git
 - Gulp
 - pm2
-- Jasmine/Mocha
+- Jasmine/Mocha/Cucumber
 - [Gherkin syntax](https://cucumber.io/docs/reference): Gherkin is plain-text English (or one of 60+ other languages) with a little extra structure. Gherkin is designed to be easy to learn by non-programmers, yet structured enough to allow concise description of examples to illustrate business rules in most real-world domains.
 
 System:
@@ -74,7 +91,7 @@ System:
 - Travis CI
 
 Database:
-- MongoDB test database: test
+- MongoDB test database: arlin-test
 
 --------------------------------------------------------------------------------
 
@@ -90,9 +107,9 @@ Expectation of a bug:
 - Expected results – how the product should behave based on the specified or implied requirements.
 - Implications – How does the defect affect the quality of the product?
 
-The following detail defines the impact levels to be used when entering bugs.
-
 ### Impact and Definitions
+
+The following detail defines the impact levels to be used when entering bugs.
 
 1 – Fatal - Test Stopper: If you can’t access a function and need the bug to be fixed immediately.  The defect prevents QA from testing the feature area, sub-area or functionality of the feature.
 2 – Serious - Beta Stopper: This is a bug that users would experience such as: data corruption, calculation errors, incorrect data, UE’s and system crash on common user scenarios, significant QA risk, and major UI defects.
@@ -107,6 +124,7 @@ The following detail defines the impact levels to be used when entering bugs.
 --------------------------------------------------------------------------------
 
 ## Test Roles and Responsibilities
+
 This is a list of the testing roles and responsibilities.  
 
 Example:
@@ -126,6 +144,7 @@ Example:
 --------------------------------------------------------------------------------
 
 ## Test Milestones
+
 This is a list of the critical test milestone dates.  Be sure to include these dates in the overall project plan.
 
 Example:
@@ -141,11 +160,13 @@ Example:
 --------------------------------------------------------------------------------
 
 ## Document Approval
+
 The signatures below acknowledge that the test plan outlined above is complete and accurate. Upon receiving written approval, the project team will proceed to the next step of the project. If anything changes during the execution of the project, the test plan will be updated and re-approved accordingly.
 
 --------------------------------------------------------------------------------
 
 ## Document Tracking
+
 All activities are recorded via Git and GitHub repositories here:
 - [ASDE Michi](https://github.com/gunadarma-academy/asde-michi)
 - [ASDE Michi Issues](https://github.com/gunadarma-academy/asde-michi/issues)
