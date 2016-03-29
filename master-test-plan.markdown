@@ -79,6 +79,34 @@ Database:
 
 --------------------------------------------------------------------------------
 
+## Bug Tracking/Process/Resolution
+						
+During testing, the testing team members normally encounter behavior that goes against a specified or implied design requirement in the product.  When this happens, we will document and reproduce the bugs for the developers.
+
+Expectation of a bug:
+- Keep track of what version of the application the bug is found
+- Determine if bug has already been written up
+- Indicate the steps to reproduce the bug – write enough details for others looking at the bug to be able to duplicate it; exclude unnecessary steps (i.e. If access point is irrelevant, be more general in your steps).
+- Actual results – be specific on your findings. 
+- Expected results – how the product should behave based on the specified or implied requirements.
+- Implications – How does the defect affect the quality of the product?
+
+The following detail defines the impact levels to be used when entering bugs.
+
+### Impact and Definitions
+
+1 – Fatal - Test Stopper: If you can’t access a function and need the bug to be fixed immediately.  The defect prevents QA from testing the feature area, sub-area or functionality of the feature.
+2 – Serious - Beta Stopper: This is a bug that users would experience such as: data corruption, calculation errors, incorrect data, UE’s and system crash on common user scenarios, significant QA risk, and major UI defects.
+3 – Minor - Live Release: A bug that must be fixed before the product is officially completed, UE’s or crashes, content, and UI and graphic changes required for release.
+
+### Various Common Roles in Bug Resolution
+
+- Author – The person who wrote the bug; this will be someone on the QA team
+- Resolver – Normally an Engineer assigned to a specific area of the application.
+- Verifier – normally a QA Engineer responsible for testing the fix and closing the bug.
+
+--------------------------------------------------------------------------------
+
 ## Test Roles and Responsibilities
 This is a list of the testing roles and responsibilities.  
 
