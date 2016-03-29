@@ -1,5 +1,5 @@
 # Master Test Plan for Arlin by Michi
-Adapted from Master Test Plan (v061111) by Northwestern University Information Technology.
+Adapted from [Master Test Plan (v061111) by Northwestern University Information Technology](http://www.it.northwestern.edu/bin/docs/project-framework/Master_Test_Plan_v061111.docx).
 
 ## Instruction
 This document is used to define the details of the master test plan. Once the test plan is outlined, the document must be reviewed and approved by the lead technical representative on the project as well as the lead business representative on the project.  If anything related to the test plan changes during the execution and testing phase of the project, this document should be updated and re-approved by both parties.
@@ -120,7 +120,7 @@ The signatures below acknowledge that the test plan outlined above is complete a
 
 ## Document Tracking
 All activities are recorded via Git and GitHub repositories here:
-- [ASDE Michi([https://github.com/gunadarma-academy/asde-michi](https://github.com/gunadarma-academy/asde-michi))
+- [ASDE Michi](https://github.com/gunadarma-academy/asde-michi)
 - [ASDE Michi Issues](https://github.com/gunadarma-academy/asde-michi/issues)
 - [ASDE Michi Test](https://github.com/gunadarma-academy/asde-michi-test)
 - [ASDE Michi App: Arlin Backend](https://github.com/gunadarma-academy/asde-michi-app)
