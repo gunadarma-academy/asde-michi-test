@@ -67,6 +67,7 @@ Tools:
 - Gulp
 - pm2
 - Jasmine/Mocha
+- [Gherkin syntax](https://cucumber.io/docs/reference): Gherkin is plain-text English (or one of 60+ other languages) with a little extra structure. Gherkin is designed to be easy to learn by non-programmers, yet structured enough to allow concise description of examples to illustrate business rules in most real-world domains.
 
 System:
 - Personal Laptop
@@ -80,14 +81,14 @@ Database:
 --------------------------------------------------------------------------------
 
 ## Bug Tracking/Process/Resolution
-						
+
 During testing, the testing team members normally encounter behavior that goes against a specified or implied design requirement in the product.  When this happens, we will document and reproduce the bugs for the developers.
 
 Expectation of a bug:
 - Keep track of what version of the application the bug is found
 - Determine if bug has already been written up
 - Indicate the steps to reproduce the bug – write enough details for others looking at the bug to be able to duplicate it; exclude unnecessary steps (i.e. If access point is irrelevant, be more general in your steps).
-- Actual results – be specific on your findings. 
+- Actual results – be specific on your findings.
 - Expected results – how the product should behave based on the specified or implied requirements.
 - Implications – How does the defect affect the quality of the product?
 
