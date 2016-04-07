@@ -1,9 +1,11 @@
 Feature: Posting a question
 
-Scenario Outline: User post a question
-  Given user <title> filled the title field
+Scenario Outline: User is able to post a question
+  Given user clicked the title field
+  And user <title> filled the title field
+  And user clicked the description field
   And user <desc> filled the description field
-  When user click the submit button
+  When user clicks the submit button
   Then user is <post> to post a question
 
   Examples:

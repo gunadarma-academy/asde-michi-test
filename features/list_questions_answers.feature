@@ -1,6 +1,6 @@
-Feature: List Question’s Answers
+Feature: List question’s answers
 
-  Scenario: User is able to read the answer of the question
-    Given App read the Question database and its Answer database
-    When User clicks the chosen Question box
-    Then User is able to read the question's answer
+  Scenario: user is able to read all answers of the first question
+    Given app retrieve all the questions and its answers data
+    When user clicks the the first available question
+    Then user is able to read the question's answer
