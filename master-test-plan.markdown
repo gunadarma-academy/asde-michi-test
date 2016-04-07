@@ -16,32 +16,23 @@ This test plan will test all the requirements for Arlin version 1.0, which will 
 
 --------------------------------------------------------------------------------
 
-## Test Features
+## Test Features/Scopes and Strategy Responsibilities
 
-This is a description of the features that will be tested within the scope of the test plan. The list represents what will be tested as well as the individuals/groups involved with the testing activities.
+This is a description of the features/scopes also with their responsibilities that will be tested within the scope of the test plan. The list represents what will be tested as well as the individuals/groups involved with the testing activities.
 
-No. | Feature	| Responsible person
---- | ------- | ------------------
-1   | Login, Logout | Muhammad Patria
-2   | Posting question, Posting answer, List all questions, and List question’s answers | Ruth Theodora
-3   | User Interface (UI) Test | Ekky Bayu Pramana
-4   | Unit/Functional/E2E Test | Muhammad Haidar Hanif
+| Test Scopes | Responsible person
+| ----------- | ------------------
+| Login, Logout | Muhammad Patria
+| Posting question, Posting answer, List all questions, and List question’s answers | Ruth Theodora
+| User Interface (UI) Test | Ekky Bayu Pramana
+| User Acceptance Test     | Muhammad Patria, Ruth Theodora
+| Unit/Functional/Integration/E2E Test | Muhammad Haidar Hanif
 
 --------------------------------------------------------------------------------
 
 ## Test Inputs/Outputs
 
-This is a description of the inputs that will be used to assist with the testing effort and a list of the outputs that will be delivered from the testing effort.  
-
-Example:
-
-Inputs        | Outputs
-------------- | ------------------
-Product Specs | List of results
-              | Test Results
-              | Issues Log
-              | Change Request Log
-              | Improvement Log
+The supposed inputs/outputs (I/O) that will be used to assist with the testing effort and a list of the outputs that will be delivered from the testing effort; are all in the feature files using Gherkin syntax. [See them here](features).
 
 --------------------------------------------------------------------------------
 
@@ -68,20 +59,6 @@ User interface test (UIT) is a testing technique used to identify the presence o
 ### User Acceptance Test
 
 User acceptance testing (UAT) is a test conducted to determine if the requirements of a specification or to verify if specific requirements are working for the user. User acceptance tests are useful because they capture user requirements in a directly verifiable way, identify problems which unit or integration tests might have missed, and provide an overview of how “done” the system is. UAT typically performed by Regular User, this tests all changed functionality of a system from the end-user perspective
-
---------------------------------------------------------------------------------
-
-## Test Strategy Responsibilities
-
-No. | Test Types               | Responsible person
---- | ------------------------ | ------------------
-1   | Unit Test                | Muhammad Haidar Hanif
-2   | Functional Test          | Muhammad Patria
-    |                          | Ruth Theodora
-3   | Integration Test         | Muhammad Haidar Hanif
-4   | User Interface (UI) Test | Ekky Bayu Pramana
-5   | User Acceptance Test     | Muhammad Patria
-    |                          | Ruth Theodora
 
 --------------------------------------------------------------------------------
 
@@ -177,7 +154,7 @@ Task and Milestone Date:
 
 ## Document Approval
 
-The signatures below acknowledge that the test plan outlined above is complete and accurate. Upon receiving written approval, the project team will proceed to the next step of the project. If anything changes during the execution of the project, the test plan will be updated and re-approved accordingly.
+(If needed) The signatures below acknowledge that the test plan outlined above is complete and accurate. Upon receiving written approval, the project team will proceed to the next step of the project. If anything changes during the execution of the project, the test plan will be updated and re-approved accordingly.
 
 --------------------------------------------------------------------------------
 
