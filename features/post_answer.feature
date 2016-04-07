@@ -6,7 +6,6 @@ Scenario Outline: User wants to answer the question
   Then user is <status> to answer a question
 
   Examples:
-    | answer   | status   |
-    | has      | able     |
-    | has not  | not able |
-  
+    | answer  | status   |
+    | has     | able     |
+    | has not | not able |

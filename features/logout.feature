@@ -1,5 +1,4 @@
-
-Feature: Logout
+Feature: Logout from the app
 
 Scenario: User wants to log out from Arlin website
   Given User has the Arlin session (cookies)

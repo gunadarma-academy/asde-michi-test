@@ -1,5 +1,4 @@
-
-Feature: Posting Question
+Feature: Posting a question
 
 Scenario Outline: User post a question
   Given user <title> filled the title field
