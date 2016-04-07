@@ -5,27 +5,18 @@ Adapted from [Master Test Plan (v061111) by Northwestern University Information 
 This document is used to define the details of the master test plan. Once the test plan is outlined, the document must be reviewed and approved by the lead technical representative on the project as well as the lead business representative on the project.  If anything related to the test plan changes during the execution and testing phase of the project, this document should be updated and re-approved by both parties.
 
 ## Test Scope
-This section is used to provide a high-level description of the business processes to be tested and a high-level description of the type of testing required for this project.   It also defines what is not in scope for the testing phase of the project.
-
-Example:
-
-> This test plan will test all the requirements for System A release 1.1 with the exception of requirement nnn, which will be tested by the xxxx team for xxxx reasons.  This Master Test Plan covers integration, user acceptance, and regression testing.  
-
-> It will not include unit testing, which will be performed by the external vendor, ZZZ.  It will not include user certification testing, which will be performed by the Finance Team.
-
+This test plan will test all the requirements for Arlin version 1.0, which will be tested by the Michi team for evaluate and verify that the product (Arlin) meet the functional, performance and design. This Master Test Plan covers unit, functional, integration, user interface, and user acceptance test.
 --------------------------------------------------------------------------------
 
 ## Test Features
 This is a description of the features that will be tested within the scope of the test plan. The list represents what will be tested as well as the individuals/groups involved with the testing activities.
 
-Example:
-
-BR# | Feature | Responsible person
---- | ------- | ------------------
-1   | ABC     | Ruth
-2   | DEF     | Ekky
-3   | GHI     | Patria
-4   | XYZ     | Haidar
+No. | Feature																						| Responsible person
+--- | --------------------------------------------------------------------------------------------- | ------------------
+1   | Login, Logout    																				| Muhammad Patria
+2   | Posting Answer, Posting Question Feature, List all questions, and Retrieve Question’s Answers | Ruth Theodora
+3   | User Interface Test 																			| Ekky Bayu Pramana
+4   | Unit Test, Functional Test    																| Muhammad Haidar Hanif
 
 --------------------------------------------------------------------------------
 
@@ -45,15 +36,22 @@ Product Specs | List of results
 --------------------------------------------------------------------------------
 
 ## Test Strategy
-This is a description of the recommended testing approach for this project. This describes "how" the test items and features will be tested.
+### Unit Test
+A unit test is a quality measurement and evaluation procedure applied in most enterprise software development activities. Generally, a unit test evaluates how software code complies with the overall objective of the software/application/program and how its fitness affects other smaller units. Unit tests may be performed manually - by one or more developer - or through an automated software solution.
 
-Example:
+When tested, each unit is isolated from the primary program or interface. Unit tests are typically performed after development and prior to publishing, thus facilitating integration and early problem detection. The size or scope of a unit varies by programming language, software application, and testing objectives.
 
-Test Types:
-- Unit Test: ...
-- Functional Test: ...
-- Integration Test: This type tests all changed functionality end to end
-- User Acceptance Test: Typically performed by Regular User, this tests all changed functionality of a system from the end-user perspective
+### Functional Test
+Functional testing is primarily is used to verify that a piece of software is providing the same output as required by the end-user or business. Typically, functional testing involves evaluating and comparing each software function with the business requirements. The software is tested by providing it with some related input so that the output can be evaluated to see how it conforms, relates or varies compared to its base requirements. Moreover, functional testing also checks the software for usability, such as by ensuring that the navigational functions are working as required.
+
+### Integration Test
+Integration testing is a software testing methodology used to test individual software components or units of code to verify the interaction between various software components and detect interface defects. Components are tested as a single group or organized in an iterative manner.
+
+### User Interface Test
+. . .
+
+### User Acceptance Test
+User acceptance testing (UAT) is a test conducted to determine if the requirements of a specification or to verify if specific requirements are working for the user. User acceptance tests are useful because they capture user requirements in a directly verifiable way, identify problems which unit or integration tests might have missed, and provide an overview of how “done” the system is. UAT typically performed by Regular User, this tests all changed functionality of a system from the end-user perspective
 
 --------------------------------------------------------------------------------
 
