@@ -161,17 +161,17 @@ All team members have each roles to do their responsibilities. List of responsib
 
 ## Test Milestones
 
-This is a list of the critical test milestone dates.  Be sure to include these dates in the overall project plan.
+This milestones include the critical test milestone dates for Arlin project.
 
-Example:
+Task and Milestone Date:
 
-> Task and Milestone Date
-  - Setup Test Environment: 07/31/05
-  - Complete Unit Testing: 08/31/05
-  - Complete Integration Testing: 09/30/05
-  - Complete User Acceptance Testing: 10/31/05
-  - Complete Regression Testing: 11/30/05
-  - Complete User Certification Testing: 12/31/05
+- Setup Test Environment Definition: April 4th, 2016
+- Complete Test Environment Definition: April 7th, 2016
+- Complete User Interface Testing: April 15th, 2016
+- Complete User Acceptance Testing: April 15th, 2016
+- Complete Unit Testing: April 22th, 2016
+- Complete Functional Testing: April 22th, 2016
+- Complete Integration Testing: April 22th, 2016
 
 --------------------------------------------------------------------------------
 
