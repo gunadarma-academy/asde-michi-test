@@ -139,21 +139,23 @@ The following detail defines the impact levels to be used when entering bugs.
 
 ## Test Roles and Responsibilities
 
-This is a list of the testing roles and responsibilities.  
+All team members have each roles to do their responsibilities. List of responsibilities are describe below:
 
-Example:
-
-> Responsibilities
-  - Provides technical direction.
-  - Acquires testing resources.
-  - Assigns tasks to testing resources.
-  - Communicates test results to management.
-  - Documents test plan.
-  - Identifies, documents and prioritizes test cases.
-  - Evaluates effectiveness of test effort.
-  - Executes test cases, logs defects, and documents test results.
-  - Ensures test environment and assets are installed, managed and maintained.  
-  - Includes administration of testing ids.
+- Provides technical direction.
+- Provides the testing documentation
+- Acquires testing resources.
+- Assigns tasks to testing resources.
+- Assigns each test type to members
+- Documents test plan.
+- Prepares the questionaire for UAT test
+- Prepares the topic for discussion on UI test
+- Ensures test environment and assets are installed, managed and maintained
+- Prepares the Arlin features to be tested
+- After Master Test Plan completed, prepares the scenario test
+- Makes a scenario test documentation
+- Executes test cases based on scenario test
+- Communicates test results to other member
+- Evaluates effectiveness of test effort
 
 --------------------------------------------------------------------------------
 
