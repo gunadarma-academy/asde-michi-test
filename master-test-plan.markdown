@@ -63,7 +63,7 @@ Integration testing is a software testing methodology used to test individual so
 
 ### User Interface Test
 
-...
+User interface test (UIT) is a testing technique used to identify the presence of defects is a product/software under test by using graphical user interface. The characteristics of the test include a thorough check of the properties on each GUI object, as well as to make sure the graphical representation is consistent with the expected result of the test. The test conducted by asking participants to exercise some simple tasks that represent each of the elements, objects, events, and navigations while each actions is recorded.
 
 ### User Acceptance Test
 
