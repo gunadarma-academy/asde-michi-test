@@ -71,6 +71,20 @@ User acceptance testing (UAT) is a test conducted to determine if the requiremen
 
 --------------------------------------------------------------------------------
 
+## Test Strategy Responsibilities
+
+No. | Test Types               | Responsible person
+--- | ------------------------ | ------------------
+1   | Unit Test                | Muhammad Haidar Hanif
+2   | Functional Test          | Muhammad Patria
+    |                          | Ruth Theodora
+3   | Integration Test         | Muhammad Haidar Hanif
+4   | User Interface (UI) Test | Ekky Bayu Pramana
+5   | User Acceptance Test     | Muhammad Patria
+    |                          | Ruth Theodora
+
+--------------------------------------------------------------------------------
+
 ## Test Environment (tools, system, databases)
 
 This is a list of the testing tools, systems, and databases.
