@@ -1,24 +1,18 @@
 Feature: Login into the app
 
-Scenario: User wants to use Arlin
-  Given user has filled the Username field
-  And user has not filled the Password field
+Scenario Outline: User is able to log in without correct credentials
+  Given user <user> filled the Username field
+  And user <pass> filled the Password field
   When user clicks the Login button
-  Then user fails to log in
+  Then user <fail> to log in
 
-Scenario: User wants to use Arlin
-  Given user has not filled the Username field
-  And user has filled the Password field
-  When user clicks the Login button
-  Then user fails to log in
+  Examples:
+    | user    | pass    | fail |
+    | has     | has not | fail |
+    | has not | has     | fail |
+    | has not | has not | fail |
 
-Scenario: User wants to use Arlin
-  Given user has not filled the Username field
-  And user has not filled the Password field
-  When user clicks the Login button
-  Then user fails to log in
-
-Scenario: User wants to use Arlin
+Scenario Outline: User is able to log in with correct credentials
   Given user has filled the correct username in Username field
   And user has filled the wrong password in Password field
   When user clicks the Login button
@@ -35,6 +29,19 @@ Scenario: User wants to use Arlin
   And user has filled the wrong password in Password field
   When user clicks the Login button
   Then user fails to log in
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Scenario: User wants to use Arlin
   Given user has filled the correct username in Username field
