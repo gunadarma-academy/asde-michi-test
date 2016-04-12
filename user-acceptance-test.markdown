@@ -31,7 +31,20 @@ Five point scale: Very Agree, Agree, Netral, Disagree, Very Disagree.
 8. Arlin’s features have met expectations and running perfectly.
 9. The available information within the site is easily understood by users.
 10. The information provided within the site can answers user problems and meets the needs of users.
-11. 
+11. Arlin provides the accurate and relevant informations.
+
+### Ease of Use:
+12. Arlin is easy to use for all ages.
+13. The navigation within the application is easily understood for Arlin users.
+14. The processing flow within the application is easily understood for Arlin users.
+15. Arlin is easily accessible.
+16. Arlin's features are complete and easily understood.
+
+### Usability:
+17. Arlin helps the user to discuss about the transportation information.
+18. Arlin helps the user to find the transportation information.
+19. I am satisfied with all the features provided by Arlin.
+20. Arlin is useful for me, now or in the future.
 
 ## Typeform
 . . .
