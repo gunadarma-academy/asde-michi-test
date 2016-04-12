@@ -144,11 +144,11 @@ Task and Milestone Date:
 
 - Setup Test Environment Definition: April 4th, 2016
 - Complete Test Environment Definition: April 7th, 2016
-- Complete User Interface Testing: April 15th, 2016
-- Complete User Acceptance Testing: April 15th, 2016
-- Complete Unit Testing: April 22th, 2016
-- Complete Functional Testing: April 22th, 2016
-- Complete Integration Testing: April 22th, 2016
+- Complete User Interface Testing: April 25th, 2016
+- Complete User Acceptance Testing: April 24th, 2016
+- Complete Unit Testing: April 17th, 2016
+- Complete Functional Testing: April 17th, 2016
+- Complete Integration Testing: April 17th, 2016
 
 --------------------------------------------------------------------------------
 
