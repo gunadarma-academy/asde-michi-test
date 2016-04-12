@@ -47,4 +47,5 @@ Five point scale: Very Agree, Agree, Netral, Disagree, Very Disagree.
 20. Arlin is useful for me, now or in the future.
 
 ## Typeform
-. . .
+A typeform is an online form reimagined. A typeform is simple, beautiful, and engaging. Because typeforms are conversational, and therefore more human, they get through-the-roof completion rates. 
+
