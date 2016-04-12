@@ -10,7 +10,12 @@ Beta testing, also known as "field testing", takes place in the user’s environ
 To perform this testing, we spread out statement questionnaires about user satisfaction to several respondents via Typeform online form.
 
 ## Likert Scale
-. . .
+
+A Likert scale is a psychometric scale commonly involved in research employing questionnaires. Likert developed the principle of measuring attitudes by asking people to respond to a series of statements about a topic, in terms of the extent to which they agree with them, and so tapping into the cognitive and affective components of attitudes. Self-reporting is the most widely used approach to scaling responses in survey research. Likert-type or frequency scales use fixed choice response formats and are designed to measure attitudes or opinions. These ordinal scales measure levels of agreement/disagreement.  Respondents may be offered a choice of five to seven or even nine pre-coded responses with the neutral point being neither agree nor disagree. In it final form, the Likert Scale is a five (or seven) point scale which is used to allow the individual to express how much they agree or disagree with a particular statement.  
+
+We use likert scale in our questionnaires, we chose five point scale because based on empirical study, five point scale is used frequently and may produce slightly higher mean scores relative to the highest possible attainable score, compared to those produced from the use of other levels, and this difference was statistically significant.
+
+Five point scale: Very Agree, Agree, Netral, Disagree, Very Disagree.
 
 ## Lists Of Statements
 ### User Interface
