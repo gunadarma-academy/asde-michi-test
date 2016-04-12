@@ -4,3 +4,5 @@ Testing plan for Arlin app by Michi team in ASDE course. All documents are creat
 The slide repo contains SVG, PNG, PDF and fonts for the slide. Slides are created with Inkscape then exported to SVG assets, then could be batch exported to several PNG files, converted to a single PDF.
 
 This relates to [issue #2](https://github.com/gunadarma-academy/asde-michi/issues/2) and [issue #32](https://github.com/gunadarma-academy/asde-michi/issues/32) in the [parent repo of ASDE Michi](https://github.com/gunadarma-academy/asde-michi).
+
+Some details are in the PROJECT-MANAGEMENT document.
