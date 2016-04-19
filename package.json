@@ -32,9 +32,6 @@
   "devDependencies": {
     "cucumber": "0.10.2"
   },
-  "engines": {
-    "node": ">= 4.4.0"
-  },
   "keywords": [
     "arlin",
     "michi",

@@ -31,7 +31,7 @@ Getting Started
   + It's also recommended to [use Node Version Manager (nvm)](https://github.com/creationix/nvm)
 + Install required npm packages/modules with `npm install` within this repo
 + Install and update required CLI globally:
-  + `npm install -g cucumber mocha jasmine karma-cli`)
+  + `npm install -g cucumber mocha jasmine karma-cli gulp grunt feathers vue-cli`)
 
 ### Testing Flow
 
