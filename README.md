@@ -38,9 +38,21 @@ Getting Started
 Start all apps for each `frontend` and `backend`, with just `npm start` in this repo or use `npm run <script>` for below:
 
 ```
-start: Start all apps for each repo
+start: Notice to use npm test, install:all, start:all, and test:all
 stop: Stop all apps
-test: Test all apps with various test runner
+test: Test integration of apps with various test runner
+install:all: npm install for backend and frontend
+start:all: start backend and frontend app
+test:all: start backend and frontend app
+```
+
+Preferred flow:
+
+```
+npm run install:all
+npm run start:all
+npm run test:all
+npm run test
 ```
 
 *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *
