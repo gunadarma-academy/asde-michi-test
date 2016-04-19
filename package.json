@@ -1,0 +1,40 @@
+{
+  "name": "arlin-test",
+  "version": "0.1.0",
+  "description": "Arlin various tests",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run backend && npm run frontend",
+    "start-backend": "cd backend && npm start",
+    "start-frontend": "cd frontend && npm start",
+    "cucumber": "cucumber.js features -r features/step_definitions",
+    "test": "npm run cucumber || echo"
+  },
+  "homepage": "http://staging.arlin.link",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://github.com/gunadarma-academy/asde-michi-test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gunadarma-academy/asde-michi-test/issues"
+  },
+  "author": "Arlin <admin@arlin.link>",
+  "contributors": [
+    "M Haidar Hanif <me@mhaidarhanif.com>"
+  ],
+  "devDependencies": {
+    "cucumber": "0.10.2"
+  },
+  "keywords": [
+    "arlin",
+    "michi",
+    "test",
+    "backend",
+    "frontend",
+    "features",
+    "cucumber",
+    "nodejs",
+    "javascript"
+  ],
+  "license": "MIT"
+}
