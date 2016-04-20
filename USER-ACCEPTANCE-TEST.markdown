@@ -1,6 +1,8 @@
 User Acceptance Test
-============================
+====================
+
 ## Description 
+
 User Acceptance Testing is, basically, the process of verifying that Arlin (alpha and beta version) works for the user. An acceptance test can be understood as a way to check if a previously defined application system between the developer and the user is still on track. Running those acceptance tests also ensures that no requirement change has happened in the meantime and that everything is as it should be to satisfy the user.
 
 We use alpha and beta testing as a type of user acceptance testing. Alpha testing normally takes place in the development environment and is usually done by internal member – long before the application is even released to external testers or users. Alpha testing can also be done by potential user groups, but the important thing here is that it takes place in the development environment. The feedback – collected from the alpha testers – is then used to fix certain issues or bugs and improve the usability of the product.
@@ -18,7 +20,9 @@ We use likert scale in our questionnaires, we chose five point scale because bas
 Five point scale: Very Agree, Agree, Netral, Disagree, Very Disagree.
 
 ## Lists Of Statements
+
 ### User Interface
+
 1. The web pallete of Arlin is good and suitable.
 2. The elements placement within the site are good and suitable.
 3. The use of Font in terms of style and size are good and suitable.
@@ -26,6 +30,7 @@ Five point scale: Very Agree, Agree, Netral, Disagree, Very Disagree.
 5. The overall look of the site is good.
 
 ### Content: 
+
 6. The language used within the site is easy to understand.
 7. Information delivered clearly within the site.
 8. Arlin’s features have met expectations and running perfectly.
@@ -34,6 +39,7 @@ Five point scale: Very Agree, Agree, Netral, Disagree, Very Disagree.
 11. Arlin provides the accurate and relevant informations.
 
 ### Ease of Use:
+
 12. Arlin is easy to use for all ages.
 13. The navigation within the application is easily understood for Arlin users.
 14. The processing flow within the application is easily understood for Arlin users.
@@ -47,5 +53,5 @@ Five point scale: Very Agree, Agree, Netral, Disagree, Very Disagree.
 20. Arlin is useful for me, now or in the future.
 
 ## Typeform
-A typeform is an online form reimagined. A typeform is simple, beautiful, and engaging. Because typeforms are conversational, and therefore more human, they get through-the-roof completion rates. 
 
+A typeform is an online form reimagined. A typeform is simple, beautiful, and engaging. Because typeforms are conversational, and therefore more human, they get through-the-roof completion rates. We use Typeform to create our survey and spread them to various channels. View them at <http://bit.ly/arlinmichi>.
