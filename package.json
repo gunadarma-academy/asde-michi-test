@@ -1,6 +1,6 @@
 {
   "name": "arlin-test",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Arlin various tests",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
     "cucumber": "cucumber.js features -r features/step_definitions",
     "test": "npm run cucumber -s"
   },
-  "homepage": "http://staging.arlin.link",
+  "homepage": "http://arlin.link",
   "repository": {
     "type": "git",
     "url": "git+ssh://github.com/gunadarma-academy/asde-michi-test.git"
@@ -27,7 +27,8 @@
   },
   "author": "Arlin <admin@arlin.link>",
   "contributors": [
-    "M Haidar Hanif <me@mhaidarhanif.com>"
+    "M Haidar Hanif <me@mhaidarhanif.com>",
+    "Ekky Pramana <ekkypramana@gmail.com>"
   ],
   "devDependencies": {
     "babel-cli": "6.7.7",
@@ -66,8 +67,13 @@
     "test",
     "backend",
     "frontend",
+    "integration",
+    "jshint",
+    "mocha",
+    "karma",
     "features",
     "cucumber",
+    "jasmine",
     "nodejs",
     "javascript"
   ],
