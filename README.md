@@ -1,10 +1,16 @@
 Arlin Testing Suite by Michi
 ============================
 
+Full | Backend | Frontend
+-----|---------|---------
+[![Full Stack Build Status](https://snap-ci.com/gunadarma-academy/asde-michi-test/branch/master/build_image)](https://snap-ci.com/gunadarma-academy/asde-michi-test/branch/master) | [![Backend Build Status](https://snap-ci.com/gunadarma-academy/asde-michi-backend/branch/master/build_image)](https://snap-ci.com/gunadarma-academy/asde-michi-backend/branch/master) | [![Frontend Build Status](https://snap-ci.com/gunadarma-academy/asde-michi-frontend/branch/master/build_image)](https://snap-ci.com/gunadarma-academy/asde-michi-frontend/branch/master) |
+
 Introduction
 ------------
 
 > Testing suite layer for Arlin.
+
+This repo is now only for things that are related to code or data management. It contains `backend` and `frontend` module to have the integration test. For things like test reports, please [refer to the parent repo here](https://github.com/gunadarma-academy/asde-michi/tree/master/reports).
 
 Most documents are created using Markdown, and could be converted into PDF. Use [`pandoc`](http://johnmacfarlane.net/pandoc) to convert files from one markup format into another. For feature files, they're using [Gherkin syntax](https://github.com/cucumber/cucumber/wiki/Gherkin) to be run with [Cucumber](https://cucumber.io).
 
@@ -40,7 +46,7 @@ Start all apps for each `frontend` and `backend`, with just `npm start` in this 
 ```
 start: Notice to use npm test, install:all, start:all, and test:all
 stop: Stop all apps
-test: Test integration of apps with various test runner
+test: Test integration of apps with various test runners
 install:all: npm install for backend and frontend
 start:all: start backend and frontend app
 test:all: start backend and frontend app
@@ -60,6 +66,7 @@ npm run test
 References
 ----------
 
++ [Snap CI](https://snap-ci.com)
 + [Cucumber Reference](https://cucumber.io/docs/reference)
 
 *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *
