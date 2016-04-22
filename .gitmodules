@@ -1,6 +1,6 @@
 [submodule "backend"]
 	path = backend
-	url = git@github.com:gunadarma-academy/asde-michi-backend.git
+	url = https://github.com/gunadarma-academy/asde-michi-backend
 [submodule "frontend"]
 	path = frontend
-	url = git@github.com:gunadarma-academy/asde-michi-frontend.git
+	url = https://github.com/gunadarma-academy/asde-michi-frontend
