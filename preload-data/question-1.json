@@ -1,1 +1,12 @@
-"mhaidarh", "Tol ke Bandung dari Tangerang", "Seberapa lama lewat tol dari Tangerang ke Bandung? Sama berapa biaya yang kira-kira akan dibutuhkan?", [ "tangerang", "bandung" ], [ "Ga sampai sehari. Paling kalo naik mobil yang hemat 500 ribu" ]
+{
+  "author": "mhaidarh",
+  "title": "Tol ke Bandung dari Tangerang",
+  "description": "Seberapa lama lewat tol dari Tangerang ke Bandung? Sama berapa biaya yang kira-kira akan dibutuhkan?",
+  "categories": [
+    "TANGERANG",
+    "BANDUNG"
+  ],
+  "answers": [
+    {}
+  ]
+}
