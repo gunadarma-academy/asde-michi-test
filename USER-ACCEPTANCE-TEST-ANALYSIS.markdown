@@ -6,46 +6,74 @@ This section explains the respondents identity and preference who gave their rat
 ### Respondent Identity: Gender
 Respondent identity based on their gender has been counted and shown in the table below.
 
-| **Gender** | **Total** |
-|:---:|:---:|
-| Man | 34 |
-| Woman | 16 |
-| **Total** | **50 people** |
+![data-gender](https://cloud.githubusercontent.com/assets/4652284/14762814/e8a12880-09ae-11e6-98f5-ab195c54a631.png)
+
+> put the description here.
+
+> put the graph here.
 
 ### Respondent Identity: City
 Respondent identity based on the city where the lived, has been counted and shown in the table below.
 
-| **City** | **Total** |
-|:---:|:---:|
-| North Jakarta | 3 |
-| West Jakarta | 8 |
-| South Jakarta | 6 |
-| East Jakarta | 5 |
-| Central Jakarta | 2 |
-| Bogor | 4 |
-| Depok | 7 |
-| Tangerang | 7 |
-| Bekasi | 4 |
-| Bandung | 4 |
-| **Total** | **50 people** |
+![data-city](https://cloud.githubusercontent.com/assets/4652284/14762818/edf1a2ce-09ae-11e6-8b87-a69898d3c085.PNG)
+
+> put the description here.
+
+> put the graph here.
 
 ### Respondent Identity: Age
-...
+Respondent identity based on their age has been counted and shown in the table below.
+
+![data-age](https://cloud.githubusercontent.com/assets/4652284/14762821/f4660884-09ae-11e6-9ddf-78f0ee8a0765.PNG)
+
+> put the description here.
+
+> put the graph here.
 
 ### Respondent Identity: Education
-...
+Respondent identity based on their education has been counted and shown in the table below.
+
+![data-education](https://cloud.githubusercontent.com/assets/4652284/14762827/fee08668-09ae-11e6-8d48-b245189304e3.PNG)
+
+> put the description here.
+
+> put the graph here.
 
 ### Respondent Identity: Work field
-...
+Respondent identity based on their work field has been counted and shown in the table below.
+
+![data-work-field](https://cloud.githubusercontent.com/assets/4652284/14762829/0374b9c4-09af-11e6-98e5-1b735da841f8.PNG)
+
+> put the description here.
+
+> put the graph here.
 
 ### Preference: Travelling transportation
-...
+Respondent preference based on which transportation they used for travelling. has been counted and shown in the table below.
+
+![data-travelling-transportation](https://cloud.githubusercontent.com/assets/4652284/14762832/09ef3dba-09af-11e6-8c92-c598978c817b.PNG)
+
+> put the description here.
+
+> put the graph here.
 
 ### Preference: Frequency of confusion
-...
+Respondent preference based on how often they confused about how to go to their destination, has been counted and shown in the table below.
+
+![data-frequency-confusion](https://cloud.githubusercontent.com/assets/4652284/14762834/0f6b56d4-09af-11e6-8ee2-df9ca8244f01.PNG)
+
+> put the description here.
+
+> put the graph here.
 
 ### Preference: Action of confusion
-...
+Respondent preference based on what they do when they confused, has been counted and shown in the table below.
+
+![data-action-confusion](https://cloud.githubusercontent.com/assets/4652284/14762836/1373a9a2-09af-11e6-8a86-b7cbcea684a0.PNG)
+
+> put the description here.
+
+> put the graph here.
 
 ## Data Analysis
 The overall results of the data that filled by **50 respondents** and obtained from the online questionnaire then analyzed and sought the percentage of each question from each questionnaire group. The groups are: **user interface** for question number 1-5, **content** for question number 6-11, **ease of use** for question number 12-16, and **usability** for question number 17-25. The results are shown in the table below.
