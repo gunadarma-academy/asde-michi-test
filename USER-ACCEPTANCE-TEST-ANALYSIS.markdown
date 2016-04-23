@@ -44,9 +44,9 @@ Respondent identity based on their work field has been counted and shown in the 
 
 ![data-work-field](https://cloud.githubusercontent.com/assets/4652284/14762829/0374b9c4-09af-11e6-98e5-1b735da841f8.PNG)
 
-> put the description here.
+For the distribution based on the working field, currently the most respondents were as an employee and as a student. Practically, this distribustion are already evenly.
 
-> put the graph here.
+![img_5_respondents_by_work_field](https://cloud.githubusercontent.com/assets/17141470/14762785/181223e0-09ae-11e6-905d-96193a25a85b.png)
 
 ### Preference: Travelling transportation
 Respondent preference based on which transportation they used for travelling. has been counted and shown in the table below.
