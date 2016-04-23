@@ -62,18 +62,18 @@ Respondent preference based on how often they confused about how to go to their 
 
 ![data-frequency-confusion](https://cloud.githubusercontent.com/assets/4652284/14762834/0f6b56d4-09af-11e6-8ee2-df9ca8244f01.PNG)
 
-> put the description here.
+Based on  how often they confused when the want to go to their destination, the majority of respondents (42% of respondents) were answering `sometimes`, followed by 26% who were answering `often and very often`. When combined, it can be concluded that 68% of respondents still confused to determine the direction and type of public transport when they were traveling.
 
-> put the graph here.
+![img_7_frequency_of_confusion](https://cloud.githubusercontent.com/assets/17141470/14762789/18446620-09ae-11e6-9e64-b411f3c56542.png)
 
 ### Preference: Action of confusion
 Respondent preference based on what they do when they confused, has been counted and shown in the table below.
 
 ![data-action-confusion](https://cloud.githubusercontent.com/assets/4652284/14762836/1373a9a2-09af-11e6-8a86-b7cbcea684a0.PNG)
 
-> put the description here.
+Based on the questionnaire, we can see the behavior of users when they were confused while traveling. 38% of respondents revealed that they immediately check the internet when not knowing the direction and transportation and followed by 28% of respondents who use the navigator app. While 22% of respondents still use the conventional way (which is asking people around) and 12% chose to find out by themselves.
 
-> put the graph here.
+![img_8_action_of_confusion](https://cloud.githubusercontent.com/assets/17141470/14762782/180d7930-09ae-11e6-811b-c96d60c7c18c.png)
 
 ## Data Analysis
 The overall results of the data that filled by **50 respondents** and obtained from the online questionnaire then analyzed and sought the percentage of each question from each questionnaire group. The groups are: **user interface** for question number 1-5, **content** for question number 6-11, **ease of use** for question number 12-16, and **usability** for question number 17-25. The results are shown in the table below.
