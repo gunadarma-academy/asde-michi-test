@@ -27,7 +27,7 @@ Respondent identity based on the city where the lived, has been counted and show
 | Tangerang | 7 |
 | Bekasi | 4 |
 | Bandung | 4 |
-| **Total** | **50 people ** |
+| **Total** | **50 people** |
 
 ### Respondent Identity: Age
 ...
