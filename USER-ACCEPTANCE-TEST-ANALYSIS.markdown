@@ -35,9 +35,9 @@ Respondent identity based on their education has been counted and shown in the t
 
 ![data-education](https://cloud.githubusercontent.com/assets/4652284/14762827/fee08668-09ae-11e6-8d48-b245189304e3.PNG)
 
-> put the description here.
+Based on the table above, the questionnaire filled by the majority of people who have S1 or bachelor degree, followed by people who have SMA/SMK (high school) as their latest education.
 
-> put the graph here.
+![img_4_respondents_by_education](https://cloud.githubusercontent.com/assets/17141470/14762784/1811b360-09ae-11e6-842a-1323c1891ae9.png)
 
 ### Respondent Identity: Work field
 Respondent identity based on their work field has been counted and shown in the table below.
