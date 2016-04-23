@@ -17,18 +17,18 @@ Respondent identity based on the city where the lived, has been counted and show
 
 ![data-city](https://cloud.githubusercontent.com/assets/4652284/14762818/edf1a2ce-09ae-11e6-8b87-a69898d3c085.PNG)
 
-> put the description here.
+We spread the online questionnaire only to the people from Jabodetabek and Bandung city. We choose this cities because the Arlin website is intended for the people from Jabodetabek and Bandung. The questionnaire filled by the majority of people from West Jakarta, followed by people from Tangerang and Depok.
 
-> put the graph here.
+![img_2_respondents_by_city](https://cloud.githubusercontent.com/assets/17141470/14762786/18121256-09ae-11e6-9dc2-fa3d4590ac59.png)
 
 ### Respondent Identity: Age
 Respondent identity based on their age has been counted and shown in the table below.
 
 ![data-age](https://cloud.githubusercontent.com/assets/4652284/14762821/f4660884-09ae-11e6-9ddf-78f0ee8a0765.PNG)
 
-> put the description here.
+Based on the table, it can be concluded that from the 50 respondents, the majority of them are from age 21- 30 years. In the future, the quality of Arlin the from end user perspective will be seen when we improve the questionnaires distribution for the users under the age of 20 years and above 31 years.
 
-> put the graph here.
+![img_1_respondents_by_age](https://cloud.githubusercontent.com/assets/17141470/14762787/18123240-09ae-11e6-97cb-d48982ca57c4.png)
 
 ### Respondent Identity: Education
 Respondent identity based on their education has been counted and shown in the table below.
