@@ -53,9 +53,9 @@ Respondent preference based on which transportation they used for travelling. ha
 
 ![data-travelling-transportation](https://cloud.githubusercontent.com/assets/4652284/14762832/09ef3dba-09af-11e6-8c92-c598978c817b.PNG)
 
-> put the description here.
+For the questions regarding the preferences of traveling transportation, the majority of respondents are using both private and public transportation, only 12% or 6 respondents that using online transportation for traveling.
 
-> put the graph here.
+![img_6_travelling_transportation](https://cloud.githubusercontent.com/assets/17141470/14762788/183e9e3e-09ae-11e6-98d2-b8ac498107a8.png)
 
 ### Preference: Frequency of confusion
 Respondent preference based on how often they confused about how to go to their destination, has been counted and shown in the table below.
