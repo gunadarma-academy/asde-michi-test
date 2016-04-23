@@ -4,10 +4,30 @@
 This section explains the respondents identity and preference who gave their rating for Arlin website based on their experience when trying some Arlin features. The data collection is done by spreading the online questionnaires to **50 people** via [http://bit.ly/arlinmichi](http://bit.ly/arlinmichi). In this test, respondent identity is classified by gender, city where they lived (limited only to Jabodetabek and Bandung city), age, education, and work field. Also, we ask them about their travelling preference, how often they confused about how to go to their destination, and what they do when they confused.
 
 ### Respondent Identity: Gender
-...
+Respondent identity based on their gender has been counted and shown in the table below.
+
+| **Gender** | **Total** |
+|:---:|:---:|
+| Man | 34 |
+| Woman | 16 |
+| **Total** | **50 people** |
 
 ### Respondent Identity: City
-...
+Respondent identity based on the city where the lived, has been counted and shown in the table below.
+
+| **City** | **Total** |
+|:---:|:---:|
+| North Jakarta | 3 |
+| West Jakarta | 8 |
+| South Jakarta | 6 |
+| East Jakarta | 5 |
+| Central Jakarta | 2 |
+| Bogor | 4 |
+| Depok | 7 |
+| Tangerang | 7 |
+| Bekasi | 4 |
+| Bandung | 4 |
+| **Total** | **50 people ** |
 
 ### Respondent Identity: Age
 ...
