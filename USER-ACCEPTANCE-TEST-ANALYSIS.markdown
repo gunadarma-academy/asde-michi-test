@@ -8,9 +8,9 @@ Respondent identity based on their gender has been counted and shown in the tabl
 
 ![data-gender](https://cloud.githubusercontent.com/assets/4652284/14762814/e8a12880-09ae-11e6-98f5-ab195c54a631.png)
 
-> put the description here.
+The table above shows that 68% or 34 of the respondents are men and 32% or 16 of the respondents are women.
 
-> put the graph here.
+![img_3_respondents_by_gender](https://cloud.githubusercontent.com/assets/17141470/14762783/1810ba8c-09ae-11e6-8941-a55fbdc1d37f.png)
 
 ### Respondent Identity: City
 Respondent identity based on the city where the lived, has been counted and shown in the table below.
