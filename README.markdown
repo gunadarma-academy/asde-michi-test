@@ -14,7 +14,7 @@ This repo is now only for things that are related to code or data management. It
 
 Most documents are created using Markdown, and could be converted into PDF. Use [`pandoc`](http://johnmacfarlane.net/pandoc) to convert files from one markup format into another. For feature files, they're using [Gherkin syntax](https://github.com/cucumber/cucumber/wiki/Gherkin) to be run with [Cucumber](https://cucumber.io).
 
-This relates to [issue #2](https://github.com/gunadarma-academy/asde-michi/issues/2) and [issue #32](https://github.com/gunadarma-academy/asde-michi/issues/32) in the [parent repo of ASDE Michi](https://github.com/gunadarma-academy/asde-michi). Most of the details are also described in [PROJECT-MANAGEMENT](https://github.com/gunadarma-academy/asde-michi/blob/master/docs/project-management.markdown).
+This relates to [issue #2](https://github.com/gunadarma-academy/asde-michi/issues/2) and [issue #32](https://github.com/gunadarma-academy/asde-michi/issues/32) in the [parent repo of ASDE Michi](https://github.com/gunadarma-academy/asde-michi). Most of the details are also described in [PROJECT-MANAGEMENT](https://github.com/gunadarma-academy/asde-michi/blob/master/docs/PROJECT-MANAGEMENT.markdown).
 
 *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *
 
