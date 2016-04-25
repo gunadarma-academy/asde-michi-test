@@ -1,5 +1,8 @@
 # User Acceptance Test Analysis
 
+> This document also has been mirrored to the [parent repo](https://github.com/gunadarma-academy/asde-michi), `reports` section:
+<https://github.com/gunadarma-academy/asde-michi/blob/master/reports/USER-ACCEPTANCE-TEST-ANALYSIS.markdown>
+
 ## Respondent Identity and Preference
 This section explains the respondents identity and preference who gave their rating for Arlin website based on their experience when trying some Arlin features. The data collection is done by spreading the online questionnaires to **50 people** via [http://bit.ly/arlinmichi](http://bit.ly/arlinmichi). In this test, respondent identity is classified by gender, city where they lived (limited only to Jabodetabek and Bandung city), age, education, and work field. Also, we ask them about their travelling preference, how often they confused about how to go to their destination, and what they do when they confused.
 
