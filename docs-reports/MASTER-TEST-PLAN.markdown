@@ -180,9 +180,9 @@ The signatures below acknowledge that the test plan outlined above is complete a
 - [ASDE Michi](https://github.com/gunadarma-academy/asde-michi)
 - [ASDE Michi Issues](https://github.com/gunadarma-academy/asde-michi/issues)
 - [ASDE Michi Slide: Intro](https://github.com/gunadarma-academy/asde-michi-slide)
-- [ASDE Michi Backend](https://github.com/gunadarma-academy/asde-michi-app)
-- [ASDE Michi Frontend](https://github.com/gunadarma-academy/asde-michi-web)
 - [ASDE Michi Test](https://github.com/gunadarma-academy/asde-michi-test)
+- [ASDE Michi Backend](https://github.com/gunadarma-academy/asde-michi-backend)
+- [ASDE Michi Frontend](https://github.com/gunadarma-academy/asde-michi-frontend)
 
 --------------------------------------------------------------------------------
 
