@@ -1,4 +1,4 @@
-# Test Report Template: Backend with Mocha and Chai (Verbose)
+# Test Report: Backend with Mocha and Chai (Verbose)
 
 All of these tests are passed.
 You can expect to see the actual and latest results on the CI/CD server (using Snap CI):

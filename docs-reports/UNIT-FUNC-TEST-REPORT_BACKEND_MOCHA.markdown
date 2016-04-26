@@ -1,4 +1,4 @@
-# Test Report Template: Backend with Mocha and Chai
+# Test Report: Backend with Mocha and Chai
 
 All of these tests are passed.
 You can expect to see the actual and latest results on the CI/CD server (using Snap CI):
