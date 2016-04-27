@@ -4,6 +4,7 @@ Report Template: Usability Test
 - Date of Test    :   April 26, 2016
 - Date of Report  :   April 26, 2016
 - Test Supervisor :   Ekky Pramana
+- Test type : Desktop version
 
 ## Participant Data
 
