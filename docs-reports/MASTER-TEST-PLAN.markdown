@@ -83,8 +83,8 @@ This is a quick list of the testing tools, systems, and databases.
 
 Tools:
 - Git
-- Webpack
 - pm2
+- Webpack
 - Mocha.js, Chai.js, Jasmine, Karma, Cucumber.js
   - [Gherkin syntax](https://cucumber.io/docs/reference): Gherkin is plain-text English (or one of 60+ other languages) with a little extra structure. Gherkin is designed to be easy to learn by non-programmers, yet structured enough to allow concise description of examples to illustrate business rules in most real-world domains.
 
@@ -92,16 +92,16 @@ System:
 - Personal Laptop
 - Personal Phone
 - DigitalOcean VPS
-- Codeship or Snap CI
+- Snap CI
 
 Database:
-- NeDB mock database: arlin-test
+- Mock database with in-memory, NeDB, or MongoDB.
 
 --------------------------------------------------------------------------------
 
 ## Bug Tracking/Process/Resolution
 
-> We haven't got any bug report from external party yet. So this process is not yet executable.
+> We haven't got any reproducable/in-depth bug report from external party yet. So this process is not yet executable.
 
 During testing, the testing team members normally encounter behavior that goes against a specified or implied design requirement in the product.  When this happens, we will document and reproduce the bugs for the developers.
 
