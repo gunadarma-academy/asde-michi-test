@@ -41,15 +41,15 @@ The supposed inputs/outputs (I/O) that will be used to assist with the testing e
 
 ## Test Strategy
 
-### Unit and Functional Testing
+### Unit Testing
 
 A unit test is a quality measurement and evaluation procedure applied in most enterprise software development activities. Generally, a unit test evaluates how software code complies with the overall objective of the software/application/program and how its fitness affects other smaller units. Unit tests may be performed manually - by one or more developer - or through an automated software solution.
 
-When tested, each unit is isolated from the primary program or interface. Unit tests are typically performed after development and prior to publishing, thus facilitating integration and early problem detection. The size or scope of a unit varies by programming language, software application, and testing objectives.
+When tested, each unit is isolated from the primary program or interface. Unit tests are typically performed after development and prior to publishing, thus facilitating integration and early problem detection. The size or scope of a unit varies by programming language, software application, and testing objectives. In this particular project, they're coupled together and can be run asynchronously. Using [Mocha](http://mochajs.org) test framework with the help of [Chai](http://chaijs.com) assertion library, we can treat them as a test suite.
 
-Functional testing is primarily is used to verify that a piece of software is providing the same output as required by the end-user or business. Typically, functional testing involves evaluating and comparing each software function with the business requirements. The software is tested by providing it with some related input so that the output can be evaluated to see how it conforms, relates or varies compared to its base requirements. Moreover, functional testing also checks the software for usability, such as by ensuring that the navigational functions are working as required.
+### Functional Testing
 
-We can say that functional tests could contain many unit tests. In this particular project, they're coupled together and can be run asynchronously. Using [Mocha](http://mochajs.org) test framework with the help of [Chai](http://chaijs.com) assertion library, we can treat them as a test suite. If possible we're also using test runner like [Karma](https://karma-runner.github.io) along with [Webpack](http://webpack.github.io) module bundler and [Jasmine](http://jasmine.github.io).
+Functional testing is primarily is used to verify that a piece of software is providing the same output as required by the end-user or business. Typically, functional testing involves evaluating and comparing each software function with the business requirements. The software is tested by providing it with some related input so that the output can be evaluated to see how it conforms, relates or varies compared to its base requirements. Moreover, functional testing also checks the software for usability, such as by ensuring that the navigational functions are working as required. We can say that functional tests could contain many unit tests. If possible we're also using test runner like [Karma](https://karma-runner.github.io) along with [Webpack](http://webpack.github.io) module bundler and [Jasmine](http://jasmine.github.io).
 
 ### Continous Integration (CI) Build and Test
 
