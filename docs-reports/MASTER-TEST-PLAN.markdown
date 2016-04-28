@@ -15,7 +15,7 @@ This document is used to define the details of the master test plan. Once the te
 
 ## Test Scope
 
-This test plan will test all the requirements for Arlin version 1.0 and beyond (>=2.0), which will be tested by the Michi team for evaluate and verify that the product (Arlin) meet the functional, performance and design. This Master Test Plan covers unit, functional, integration, end-to-end (E2E), user interface, and user acceptance test.
+This test plan will test all the requirements for Arlin version 1.0 and beyond (>=2.0), which will be tested by the Michi team for evaluate and verify that the product (Arlin) meet the functional, performance and design. This Master Test Plan covers unit, functional, integration, end-to-end (E2E), usability, and user acceptance test.
 
 --------------------------------------------------------------------------------
 
@@ -61,7 +61,7 @@ Integration testing itself is a software testing methodology used to test indivi
 
 ### End-to-End (E2E) Test
 
-End-to-End testing is a technique used to test whether the flow of an application right from start to finish is behaving as expected. The purpose of performing end-to-end testing is to identify system dependencies and to ensure that the data integrity is maintained between various system components and systems. The entire application is tested for critical functionalities such as communicating with the other systems, interfaces, database, network, and other applications. Within the [`test`](https://github.com/gunadarma-academy/asde-michi-test) repo, we're running the feature files (along with their step definitions) to run our E2E test. The testing flow itself is [in its own section](https://github.com/gunadarma-academy/asde-michi-test#testing-flow). The main test runner for E2E test is [Cucumber](https://cucumber.io) that uses [Gherkin syntax](https://cucumber.io/docs/reference) with [step definitions](https://cucumber.io/docs/reference#step-definitions).
+End-to-End testing is a technique used to test whether the flow of an application right from start to finish is behaving as expected. The purpose of performing end-to-end testing is to identify system dependencies and to ensure that the data integrity is maintained between various system components and systems. The entire application is tested for critical functionalities such as communicating with the other systems, interfaces, database, network, and other applications. Within the [`test`](https://github.com/gunadarma-academy/asde-michi-test) repo, we're running the feature files (along with their step definitions) to run our E2E test. The testing flow itself is [in its own section](https://github.com/gunadarma-academy/asde-michi-test#testing-flow). The main test language is using [Gherkin syntax](https://cucumber.io/docs/reference) (specified by [Cucumber](https://cucumber.io)), that can also be used for usability testing.
 
 ### Usability Test
 
